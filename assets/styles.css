@@ -1,0 +1,20 @@
+* {
+  font-family: 'Roboto Condensed';
+}
+
+.navbar {
+  background: #0097e6;
+  color: #f3f3f3;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  margin-top: 50px;
+  height: 35px;
+  font-size: 10px;
+  padding-top: 8px;
+  width: 100%;
+  background: #b2bec3;
+  text-align: center;
+}
